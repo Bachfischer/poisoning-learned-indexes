@@ -1,4 +1,4 @@
-# poisoning-learned-indexes
+# testing-robustness-of-learned-indexes
 
 ## Project structure
 
