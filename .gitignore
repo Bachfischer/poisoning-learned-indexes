@@ -176,6 +176,6 @@ dmypy.json
 cython_debug/
 
 # exclude folders
-/data/*
+#/data/*
 /doc/*
 /playground
