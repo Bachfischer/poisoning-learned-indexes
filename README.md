@@ -2,8 +2,9 @@
 
 ## Project structure
 
-* `data/` -- Various datasets
-* `src/` -- Source code for experiments
+* `data/` -- Various datasets, obtained from [Logarithmic Error Regression](https://github.com/Bachfischer/LogarithmicErrorRegression)
+* `doc/` -- Source code for LaTeX paper
+* `src/` -- Visualizations for experiments
 
 ## Contact
 
